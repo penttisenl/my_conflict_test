@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ristiriita versio 2
+=======
+Ristiriita1
+>>>>>>> origin/master
